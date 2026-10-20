@@ -1,0 +1,8 @@
+# Build output and bundled runtime DLLs
+*.exe
+*.o
+bundle/
+
+# Runtime data
+drink_logs.txt
+reminders.txt
